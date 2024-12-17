@@ -2,51 +2,78 @@
 <html lang="ka">
     <head>
         <meta charset="utf-8">
-        <link>
+        <link rel="stylesheet" href="css1-2.css">
         <title>css1-2</title>
     </head>
+
+
     <body>
-        <div id="title">Read some interesting articles<div>
+        <header>
 
-        <div id="text1"><img src="images/37d583b7446c7276149a72e38bd09fe5.png"></div>
+            <div id="title">Read some interesting articles</div>
 
-        <div id="text2">Stary night</div>
+        </header>
 
-        <div id="text3">Look up at the night sky, and find yourself immersed in the amazing mountain range of Aspen. 
-            The starry sky combined with the breathtaking scenery creates a moment of pure magic, 
-            leaving you in awe of nature's beauty.</div>
+        <main>
+            <div>
+                <img src="images/37d583b7446c7276149a72e38bd09fe5.png" alt="image" title="iamge" id="photo1">
 
-        <div id="text4">1. Immerse yourself in the serene beauty of Aspen's majestic mountain range under a starry night sky.
-            2. Experience the tranquility and wonder as the stunning scenery captivates your senses.
-            3. Let the natural beauty of Aspen inspire awe and provide a peaceful escape from everyday life.</div>
+                <title2 id="title2">Stary night</title2>
+                
+                <p id="text">Look up at the night sky, and find yourself immersed in the amazing mountain range of Aspen. 
+                   The starry sky combined with the breathtaking scenery creates a moment of pure magic, 
+                   leaving you in awe of nature's beauty.</p>
 
-        <div id="text5">Read more</div>
+                <p id="text2"> 
+                    <p id="tx2">1. Immerse yourself in the serene beauty of Aspen's majestic mountain range under a starry night sky.</p>
+                    <p id="tx3">2. Experience the tranquility and wonder as the stunning scenery captivates your senses.</p>
+                    <p id="tx4">3. Let the natural beauty of Aspen inspire awe and provide a peaceful escape from everyday life.</p>
 
-        <div id="text6">The Magic of Glowing Creatures </div>
+                <button id="button">Read more</button>
 
-        <div id="text7">Did you know some animals and plants can glow in the dark? This cool trick is called bioluminescence. 
-            It happens when a special chemical reaction inside their bodies creates light. 
-            It’s like nature’s version of neon lights!</div>
+                <div id="title3">
+                    The Magic of Glowing Creatures 
+                </div>
 
-        <div id="text8">Here’s how it works:</div>
+                <p id="large">
+                    Did you know some animals and plants can glow in the dark? This cool trick is called bioluminescence. 
+                    It happens when a special chemical reaction inside their bodies creates light. 
+                    It’s like nature’s version of neon lights!
+                </p>
 
-        <div id="text9">1. A molecule called luciferin mixes with oxygen.
-            2. An enzyme called luciferase helps speed up the process.
-            3. Voilà! A glow appears, but without heat – it’s called “cold light.”</div>
+                
+                <div id="part4">
+                    <div id="part5">
+                        Here’s how it works:
+                    </div>
 
-        <div id="text10"><img src="images/29ec08afddd2880728c456e399e0628b.png"></div>
+                    <p id="text5">
+                        <p id="tx6">1. A molecule called luciferin mixes with oxygen.</p>
+                        <p id="tx7">2. An enzyme called luciferase helps speed up the process.</p>
+                        <p id="tx8">3. Voilà! A glow appears, but without heat – it’s called “coldlight.”</p>
+                    </p>
+                </div>
 
-        <div id="text11">Where Do We See It?</div>
+                <img src="images/29ec08afddd2880728c456e399e0628b.png" alt="image" title="image" id="image1"/>
 
-        <div id="text12">Fireflies: They flash to talk to each other and attract mates</div>
+                <div id="box1">
 
-        <div id="text13">Deep-sea fish: They use it to scare predators or lure prey.</div>
+                    <p id="title5">Where Do We See It?</p>
 
-        <div id="text14">Fungi and plants: Some even glow to attract bugs or spread spores!</div>
+                    <div id="circle1"></div>
 
-        <div id="text15"><img src="images/image 9.png"></div>
+                    <p id="one">Fireflies: They flash to talk to each other and attract mates</p>
 
-        <div id="text16">See more on the link</div>
-    
+                    <p id="two">Deep-sea fish: They use it to scare predators or lure prey.</p>
+
+                    <p id="three">Fungi and plants: Some even glow to attract bugs or spread spores!</p>
+
+                </div>
+
+                <img src="images/image 9.png" alt="image" title="iamge" id="image3" />
+
+                <a id="link">See more on the link</a>
+            </div> 
+        </main>
     </body>
 </html>
