@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="ka">
+    <head>
+        <meta charset="utf-8">
+        <link>
+        <title>css1-2</title>
+    </head>
+    <body>
+        <div id="title">Read some interesting articles<div>
+
+        <div id="text1"><img src="images/37d583b7446c7276149a72e38bd09fe5.png"></div>
+
+        <div id="text2">Stary night</div>
+
+        <div id="text3">Look up at the night sky, and find yourself immersed in the amazing mountain range of Aspen. 
+            The starry sky combined with the breathtaking scenery creates a moment of pure magic, 
+            leaving you in awe of nature's beauty.</div>
+
+        <div id="text4">1. Immerse yourself in the serene beauty of Aspen's majestic mountain range under a starry night sky.
+            2. Experience the tranquility and wonder as the stunning scenery captivates your senses.
+            3. Let the natural beauty of Aspen inspire awe and provide a peaceful escape from everyday life.</div>
+
+        <div id="text5">Read more</div>
+
+        <div id="text6">The Magic of Glowing Creatures </div>
+
+        <div id="text7">Did you know some animals and plants can glow in the dark? This cool trick is called bioluminescence. 
+            It happens when a special chemical reaction inside their bodies creates light. 
+            It’s like nature’s version of neon lights!</div>
+
+        <div id="text8">Here’s how it works:</div>
+
+        <div id="text9">1. A molecule called luciferin mixes with oxygen.
+            2. An enzyme called luciferase helps speed up the process.
+            3. Voilà! A glow appears, but without heat – it’s called “cold light.”</div>
+
+        <div id="text10"><img src="images/29ec08afddd2880728c456e399e0628b.png"></div>
+
+        <div id="text11">Where Do We See It?</div>
+
+        <div id="text12">Fireflies: They flash to talk to each other and attract mates</div>
+
+        <div id="text13">Deep-sea fish: They use it to scare predators or lure prey.</div>
+
+        <div id="text14">Fungi and plants: Some even glow to attract bugs or spread spores!</div>
+
+        <div id="text15"><img src="images/image 9.png"></div>
+
+        <div id="text16">See more on the link</div>
+    
+    </body>
+</html>
